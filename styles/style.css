@@ -90,8 +90,8 @@ body{
 }
 
 .titulo:hover{
-    background-color: var(--White);
-    color: var(--Lightgray);
+    background-color: var(--Lightgray2);
+    border-color: var(--White);
     scale: 1.02;
 }
 
